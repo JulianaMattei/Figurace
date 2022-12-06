@@ -1,0 +1,33 @@
+timestamp,id,evento,usuarie,estado,texto-ingresado,respuesta,nivel,genero
+1656110577,f6ac71ca-3314-42ea-a478-100bedd238de,inicio_partida,Juan,,-,-,Normal,Masculino
+1656110580,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,error,Tungurahua (Ecuador),Ijen (Java),Normal,Masculino
+1656110581,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,error,Sabancaya (Peru),Usu (Hokkaido-Japan),Normal,Masculino
+1656110582,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,error,Mayon (Luzon-Philippines),Merapi (Java),Normal,Masculino
+1656110582,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,ok,Komaga-take (Hokkaido-Japan),Komaga-take (Hokkaido-Japan),Normal,Masculino
+1656110583,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,error,Sakura-jima (Kyushu-Japan),Kelut (Java),Normal,Masculino
+1656110583,f6ac71ca-3314-42ea-a478-100bedd238de,intento,Juan,error,Karangetang [Api Siau] (Sangihe Is-Indonesia),Etna (Italy),Normal,Masculino
+1656110584,f6ac71ca-3314-42ea-a478-100bedd238de,fin,Juan,finalizada,,,Normal,Masculino
+1656110591,2e3c2b90-170c-44ff-83e9-af6925aacd80,inicio_partida,Juan,,-,-,Normal,Masculino
+1656110763,ecc1a3ee-2102-434d-9d7d-956893d07be9,inicio_partida,Isidro,,-,-,Normal,Masculino
+1656110767,ecc1a3ee-2102-434d-9d7d-956893d07be9,intento,Isidro,error,Soufriere Hills (W Indies),Kilauea (Hawaiian Is),Normal,Masculino
+1656110767,ecc1a3ee-2102-434d-9d7d-956893d07be9,intento,Isidro,error,Campi Flegrei (Italy),Soufriere St. Vincent (W Indies),Normal,Masculino
+1656110767,ecc1a3ee-2102-434d-9d7d-956893d07be9,intento,Isidro,error,Avachinsky (Kamchatka),Ulawun (New Britain-SW Pac),Normal,Masculino
+1656110768,ecc1a3ee-2102-434d-9d7d-956893d07be9,intento,Isidro,error,Sinabung (Sumatra),Aoba (Vanuatu-SW Pacific),Normal,Masculino
+1656110768,ecc1a3ee-2102-434d-9d7d-956893d07be9,intento,Isidro,error,Tullu Moje (Africa-NE),Pacaya (Guatemala),Normal,Masculino
+1656110772.732592,ecc1a3ee-2102-434d-9d7d-956893d07be9,cancelada,Isidro,cancelada,-,-,Normal,
+1656110802,fbfd10ee-413b-434c-bfac-ea0b94278a41,inicio_partida,Juan,,-,-,Normal,Masculino
+1656110819,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,timeout,-,Klingande,Normal,Masculino
+1656110819,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,error,Hot Chelle Rae,Swedish House Mafia,Normal,Masculino
+1656110820,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,error,Lorde,Hailee Steinfeld,Normal,Masculino
+1656110821,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,ok,AJR,AJR,Normal,Masculino
+1656110821,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,error,Frank Ocean,Zedd,Normal,Masculino
+1656110821,fbfd10ee-413b-434c-bfac-ea0b94278a41,intento,Juan,error,Sebastian Ingrosso,Pitbull,Normal,Masculino
+1656110823,fbfd10ee-413b-434c-bfac-ea0b94278a41,fin,Juan,finalizada,,,Normal,Masculino
+1656120782,40a0530f-31f6-47a0-9779-908b1bd9003a,inicio_partida,Juliana,,-,-,Dificil,Femenino
+1656120784,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,error,Okmok (Aleutian Is),Yasur (Vanuatu-SW Pacific),Dificil,Femenino
+1656120786,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,ok,Umboi (New Guinea-NE of),Umboi (New Guinea-NE of),Dificil,Femenino
+1656120787,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,error,Merapi (Java),Semeru (Java),Dificil,Femenino
+1656120789,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,error,Etna (Italy),Campi Flegrei (Italy),Dificil,Femenino
+1656120790,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,ok,Deception Island (Antarctica),Deception Island (Antarctica),Dificil,Femenino
+1656120792,40a0530f-31f6-47a0-9779-908b1bd9003a,intento,Juliana,error,Usu (Hokkaido-Japan),Banda Api (Banda Sea),Dificil,Femenino
+1656120794,40a0530f-31f6-47a0-9779-908b1bd9003a,fin,Juliana,finalizada,,,Dificil,Femenino
